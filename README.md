@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @xiaowangAndyismengxin
-- 🌱 I’m currently learning Web Development. Well, just follow my hobby.
 - 📫 email: 177188505@qq.com
-- 😄 Pronouns: call me with full name please.
-- ⚡ Fun fact: I am just a student in junior high school. All computer knowledge just my hobby.I am teaching myself.
+- 😄 Pronouns: xwAndy.
+- ⚡ Fun fact: I am a student, not professional at all.
 
 <!---
 xiaowangAndyismengxin/xiaowangAndyismengxin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
