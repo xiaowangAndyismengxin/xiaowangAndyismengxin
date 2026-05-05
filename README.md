@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @xiaowangAndyismengxin
+- 👋 Hi, I’m @awade
 - 📫 email: 177188505@qq.com
-- 😄 Pronouns: xwAndy.
 - ⚡ Fun fact: I am a student, not professional at all.
 
 <!---
